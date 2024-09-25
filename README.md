@@ -18,7 +18,7 @@ It could also serve as a learning tool in agricultural science programs to teach
 
 Being on the early developement stage, this code is meant to iterate over the classes Plant and Fertilizer, and return recommendations based on their suitability.
 
-```
+``` python
 # Superclass for Plant
 class Plant:
     def __init__(self, name, water_needs, growth_rate, nutrient_needs):
